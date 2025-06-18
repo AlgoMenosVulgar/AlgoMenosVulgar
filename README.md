@@ -6,7 +6,7 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
 
 <table align="center">
   <tr>
-    <td align="center" colspan="5">
+    <td align="center" colspan="4">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>
       <strong>Python</strong>
     </td>
@@ -28,12 +28,12 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
       <img height="35" src="https://cdn.svgporn.com/logos/seaborn-icon.svg"><br>
       <sub>Seaborn</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img height="35" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"><br>
       <sub>Streamlit</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"><br>
       <sub>Jupyter</sub>
@@ -49,15 +49,14 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
   </tr>
 </table>
 
+<br><br>
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="Excel"><br>
       <strong>Excel</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="60" height="28" src="https://i.namu.wiki/i/4pFYuX3VYEDgstpoGu02FYYN0xDPFl_4zAun7yDqh5LMnDrH5DVpLjt_4WVFTk8zKnqFeiLTooc_FhjoOpwmEg.svg"><br>
       <sub>VBA</sub>
@@ -68,6 +67,7 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
     </td>
   </tr>
 </table>
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
