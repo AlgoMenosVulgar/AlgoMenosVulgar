@@ -22,7 +22,7 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
     </td>
     <td align="center">
       <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"><br>
-      <sub>scikit-learn</sub>
+      <sub>Scikit-Learn</sub>
     </td>
     <td align="center">
       <img height="35" src="https://cdn.svgporn.com/logos/seaborn-icon.svg"><br>
@@ -55,7 +55,7 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
   <tr>
     <td align="center">
       <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="Excel"><br>
-      <strong>Excel</strong>
+      <sub>Excel</sub>
     </td>
     <td align="center">
       <img width="60" height="28" src="https://i.namu.wiki/i/4pFYuX3VYEDgstpoGu02FYYN0xDPFl_4zAun7yDqh5LMnDrH5DVpLjt_4WVFTk8zKnqFeiLTooc_FhjoOpwmEg.svg"><br>
