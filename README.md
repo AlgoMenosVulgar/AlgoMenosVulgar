@@ -6,7 +6,7 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
 
 <table align="center">
   <tr>
-    <td align="center" colspan="8">
+    <td align="center" colspan="5">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>
       <strong>Python</strong>
     </td>
@@ -32,6 +32,8 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
       <img height="35" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"><br>
       <sub>Streamlit</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"><br>
       <sub>Jupyter</sub>
@@ -47,7 +49,6 @@ A Caribbean physicist with a deep passion for numbers and statistics, captivated
   </tr>
 </table>
 
-<br><br>
 
 <table align="center">
   <tr>
